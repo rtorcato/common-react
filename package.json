@@ -17,8 +17,8 @@
   "scripts": {
     "component-add": "npx shadcn@latest add",
     "build:css": "postcss src/styles/globals.css -o dist/styles.css",
-    "build-dev": "rimraf ./dist && pnpm build:css && cross-env NODE_ENV=development node build.mjs && tsc --emitDeclarationOnly --project tsconfig.build.json",
-    "build-prod": "rimraf ./dist && pnpm build:css && cross-env NODE_ENV=production node build.mjs && tsc --emitDeclarationOnly --project tsconfig.build.json",
+    "build-dev": "rimraf ./dist && cross-env NODE_ENV=development node build.mjs && tsc --emitDeclarationOnly --project tsconfig.build.json",
+    "build-prod": "rimraf ./dist && cross-env NODE_ENV=production node build.mjs && tsc --emitDeclarationOnly --project tsconfig.build.json",
     "package:analyzer": "esbuild-analyzer meta.json",
     "package:analyzer1": "https://esbuild.github.io/analyze/",
     "==================== Common ====================": "",
