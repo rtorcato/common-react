@@ -12,6 +12,6 @@ const plugins = semanticRelease.plugins.filter(
 
 export default {
 	...semanticRelease,
-	repositoryUrl: 'https://github.com/rtorcato/common-react.git',
+	repositoryUrl: 'https://github.com/rtorcato/react-common.git',
 	plugins,
 }

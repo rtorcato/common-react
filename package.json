@@ -8,13 +8,13 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
-  "homepage": "https://github.com/rtorcato/common-react#readme",
+  "homepage": "https://github.com/rtorcato/react-common#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rtorcato/common-react.git"
+    "url": "git+https://github.com/rtorcato/react-common.git"
   },
   "bugs": {
-    "url": "https://github.com/rtorcato/common-react/issues"
+    "url": "https://github.com/rtorcato/react-common/issues"
   },
   "engines": {
     "node": ">=22"

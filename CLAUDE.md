@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-`@rtorcato/common-react` — a published React 19 component library distributed via the public **npm** registry. Single package (not a monorepo). Hosted on GitHub (`github.com/rtorcato/common-react`). Tooling follows the `@rtorcato/js-tooling` standard, matching `js-common` / `browser-common`.
+`@rtorcato/common-react` — a published React 19 component library distributed via the public **npm** registry. Single package (not a monorepo). Hosted on GitHub (`github.com/rtorcato/react-common`). Tooling follows the `@rtorcato/js-tooling` standard, matching `js-common` / `browser-common`.
 
 ## Package manager
 
